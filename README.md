@@ -9,4 +9,5 @@ Given the nature of this task, there are multiple ways to solve it, each implyin
  Recall: 48%
  Precision: 20%
  F1: 28%
+ Given some problems I had with my laptop and the inherent time it takes for this approach to process the entire CSV field with all the companies, to not greatly surpass the discussed time allowed for this challange, I only employed the algorithm for the first 1001 companies from the CSV.
  As a final word, compared to the other options, using an LLM, by itself or combined with other enhancements/approaches, for this task is the best way to solve this problem most accurately, due to the fact that an LLM, if created correctly, can see more complex patterns within the data compared to the other approaches and thus better predict more complexly described companies.
